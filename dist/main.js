@@ -1,0 +1,1 @@
+!function(){var t={138:function(t){t.exports={Validator:class{static validateUsername(t){return new RegExp("^[a-zA-Z]+[0-9]{0,3}_{0,2}\\-{0,2}[a-zA-Z]+$").test(t)}}}}},r={};!function e(a){var n=r[a];if(void 0!==n)return n.exports;var o=r[a]={exports:{}};return t[a](o,o.exports,e),o.exports}(138)}();
